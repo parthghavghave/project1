@@ -161,7 +161,7 @@ ul#menu li
   margin: 8px 4px 0 4px;}
 
 ul#menu li a
-{ font: normal 100% 'trebuchet ms', sans-serif;
+{ font: normal 110% 'trebuchet ms', sans-serif;
   display: block; 
   float: left; 
   height: 30px;
@@ -169,19 +169,19 @@ ul#menu li a
   text-align: center;
   color: #FFF;
   text-decoration: none;
-  background: #5E4238;} 
+  background: #000000;} 
 
 ul#menu li.selected a
-{ height: 30px;
+{ height: 50px;
   padding: 6px 20px 5px 11px;}
 
 ul#menu li.selected
 { margin: 8px 4px 0 13px;
-  background: #B48A7C;}
+  background: #FFFFFF;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #B48A7C;
-  color: #FFF;}
+{ background: #FFFFFF;
+  color: #000;}
 
 ul#menu li a:hover
 { color: #B48A7C;}
